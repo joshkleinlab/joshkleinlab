@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Josh Klein]
+# 👋 Hi there! I'm Josh Klein
 
 I'm a passionate software developer with a strong focus on building high-performance, scalable, and user-centric applications. With experience in both full-time and freelance roles, I’ve worked across a wide range of technologies — from web and mobile development to backend services and cloud infrastructure.
 

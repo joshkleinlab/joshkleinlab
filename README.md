@@ -18,5 +18,3 @@ Java, Golang, Swift, Spring, MyBatis, Kafka, Redis, Oracle, MySQL, PostgreSQL, M
 Whether you need help with a project or want to collaborate — I'm always open to new ideas and challenges.
 
 ---
-
-Feel free to customize it, or tell me more and I’ll personalize it even further for you.

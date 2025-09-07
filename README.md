@@ -16,7 +16,7 @@ Java, Golang, Swift, Spring, MyBatis, Kafka, Redis, Oracle, MySQL, PostgreSQL, M
 
 🔗 **Let’s connect:**
 - [Email](mailto:gigacoderx@gmail.com)
-- [Reddit](https://www.reddit.com/user/First-Crab-9724)
+- 
 
 Whether you need help with a project or want to collaborate — I'm always open to new ideas and challenges.
 

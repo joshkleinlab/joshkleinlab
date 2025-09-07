@@ -20,8 +20,5 @@ Java, Golang, Swift, Spring, MyBatis, Kafka, Redis, Oracle, MySQL, PostgreSQL, M
 
 Whether you need help with a project or want to collaborate — I'm always open to new ideas and challenges.
 
-<a href="https://ko-fi.com/lunar_flowing">
-  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=6" width="150" alt="Buy me a coffee">
-</a>
 
 ---
